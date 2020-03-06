@@ -1,0 +1,4 @@
+<!--pages/images/images.wxml-->
+<image src="https://res.wx.qq.com/wxdoc/dist/assets/img/0.4cb08bb4.jpg"></image>
+<button bindtap="handleChooseAlbum">选择照片</button>
+<image src="{{img_src}}"></image>
